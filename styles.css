@@ -179,8 +179,20 @@ nav ul li {
   background-color: var(--secondary-color);
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  text-align: center;
   margin: 20px;
+}
+
+.package-header {
+  background-color: var(--primary-color);
+  padding: 15px 0;
+  width: 100%;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#pricing .btn {
+  margin-bottom: 10px;
 }
 
 .pricing-card h2 {
