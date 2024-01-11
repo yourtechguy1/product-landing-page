@@ -145,7 +145,7 @@ nav ul li {
 #features {
   display: flex;
   flex-wrap: wrap;
-  gap: 15rem;
+  gap: 5rem;
   justify-content: center;
   margin: 0 auto;
   width: 85%;
